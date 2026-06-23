@@ -1,1 +1,1 @@
-print('Now we can take break')
+print('Now we can take the break.')
