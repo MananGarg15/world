@@ -1,1 +1,1 @@
-print('Now we can take break')
+print('5 min for break')
