@@ -1,1 +1,1 @@
-Hello World
+print('Still 5 min for break')
